@@ -1,5 +1,5 @@
 #Deploying a python web application
-echo "Hello World"
+#echo "Hello World"
 #this is a schell scrpt
-print ('Hello World') 
+print('Hello World') 
 #this is a python script
