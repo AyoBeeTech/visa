@@ -1,3 +1,3 @@
-# Deploying a python web application
-#echo "Hello World"    
-print('Hello World')
+Deploy java application
+Deploy python apps
+Depoly in the dev enviroment 
